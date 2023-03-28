@@ -1,4 +1,4 @@
-# Imersão Java - Alura
+# Imersão Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> - Alura
 
 Ao longo de uma semana a missão é desenvolver um projeto em Java.
 
@@ -16,6 +16,10 @@ Devido a instabilidade no site do IMDb, consumi via -   [https://raw.githubuserc
 ## Aula 2: Gerando figurinhas para whatsapp
 
 Criar um gerador de figurinhas explorando outras bibliotecas nativas do Java, para que possamos enviar por Whatsapp os nossos filmes preferidos.
+
+**Exemplos de resultado:**
+
+![Resultado aula 2](https://github.com/brunoesm07/imersao-java-2023/blob/8d21cb8d685a47917c3d5df6e7f3703a2187063f/Consumindo-uma-API-com-Java/assets/aula%202%20-%20exemplo.png)
 
 **Links úteis:**
 
