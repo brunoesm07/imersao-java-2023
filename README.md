@@ -32,7 +32,7 @@ Criar um gerador de figurinhas explorando outras bibliotecas nativas do Java, pa
 
 ### Instrutores
 
-| foto1 | foto2 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> |
-| ----- | ----- | ----- |
-| [Jacqueline Oliveira](https://github.com/jacqueline-oliveira)| [Alexandre Aquiles](https://github.com/alexandreaquiles) | Paulo Silveira |
+|<img src="https://github.com/brunoesm07/imersao-java-2023/blob/a9e877af39c60864d9dbaf894b2ce09c3ebd9ca2/Consumindo-uma-API-com-Java/assets/Paulo.png" width="160" height="160" /> | <img src="https://github.com/brunoesm07/imersao-java-2023/blob/a9e877af39c60864d9dbaf894b2ce09c3ebd9ca2/Consumindo-uma-API-com-Java/assets/jacqueline.png" width="160" height="160" /> | <img src="https://github.com/brunoesm07/imersao-java-2023/blob/a9e877af39c60864d9dbaf894b2ce09c3ebd9ca2/Consumindo-uma-API-com-Java/assets/alexandre.png" width="160" height="160" /> | 
+| :-----: | :-----: | :-----: |
+| Paulo Silveira | [Jacqueline Oliveira](https://github.com/jacqueline-oliveira)| [Alexandre Aquiles](https://github.com/alexandreaquiles) |
 
