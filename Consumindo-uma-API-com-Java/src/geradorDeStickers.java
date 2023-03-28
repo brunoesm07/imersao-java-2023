@@ -17,14 +17,14 @@ import javax.imageio.ImageIO;
 
 public class geradorDeStickers {
     
-    public void cria(InputStream inputStream, String nomeArquivo, String texto) throws Exception {
+    public void cria(InputStream inputStream, String nomeArquivo, String texto, InputStream inputStreamSobreposicao) throws Exception {
 
         // leitura da imagem
         // (opção 1) InputStream inputStream = new FileInputStream(new File("entrada/filme")); 
         // (opção 2) InputStream inputStream = new URL("https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopMovies_9.jpg").openStream();
         BufferedImage ImagemOriginal = ImageIO.read(inputStream);
 
-        //cria uma nova imagem em memoria com transparencia e tamanho novo
+        // cria uma nova imagem em memoria com transparencia e tamanho novo
         int largura = ImagemOriginal.getWidth();
         int altura = ImagemOriginal.getHeight();
         int novaAltura = altura + 200;
@@ -34,7 +34,12 @@ public class geradorDeStickers {
         Graphics2D graphics = (Graphics2D) novaImagem.getGraphics();
         graphics.drawImage(ImagemOriginal, 0, 0, null);
 
-        //configurar a fonte
+        // inserindo imagem sobreposta
+        BufferedImage imagemSobreposicao = ImageIO.read(inputStreamSobreposicao);
+        int posicaoImagemSobreposicaoY = novaAltura - imagemSobreposicao.getHeight();
+        graphics.drawImage(imagemSobreposicao, 0, posicaoImagemSobreposicaoY, null);
+
+        // configurar a fonte
         var fonte = new Font("Impact", Font.BOLD, 80);
         graphics.setColor(Color.ORANGE);
         graphics.setFont(fonte);
@@ -63,7 +68,7 @@ public class geradorDeStickers {
         graphics.draw(outline);
         graphics.setClip(outline);
 
-        //escrever a nova imagem em um arquivo
+        // escrever a nova imagem em um arquivo
         ImageIO.write(novaImagem,  "png", new File(nomeArquivo));
     }
 }
