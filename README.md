@@ -36,3 +36,12 @@ Criar um gerador de figurinhas explorando outras bibliotecas nativas do Java, pa
 | :-----: | :-----: | :-----: |
 | Paulo Silveira | [Jacqueline Oliveira](https://github.com/jacqueline-oliveira)| [Alexandre Aquiles](https://github.com/alexandreaquiles) |
 
+---
+
+## Extra
+
+Não faz parte do conteúdo da imersão, porém estou tentando implementar, através do HitHub Actions, uma ferramenta SAST para escanear a aplicação em busca de vulnerabilidades de segurança a cada push, como prática dos demais assuntos que venho estudando.
+
+Ferramentas utilizadas: 
+
+**GitHub Actions + SonarCloud**
