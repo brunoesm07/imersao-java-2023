@@ -28,6 +28,14 @@ Criar um gerador de figurinhas explorando outras bibliotecas nativas do Java, pa
 - Documentação da classe [Graphics2D](https://docs.oracle.com/en/java/javase/17/docs/api/java.desktop/java/awt/Graphics2D.html), a “caneta” que permite escrever, desenhar e imprimir outras imagens em uma imagem original.
 - Documentação da [abstração InputStream](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/io/InputStream.html), que representa um fluxo de leitura de dados de qualquer fonte, como arquivos, URLs, entre outros.
 
+## Aula 3: Ligando as pontas, Refatoração e Orientação a Objetos
+
+Chegou o momento de melhorar o código com as refatorações necessárias para torná-lo mais flexível e fácil de entender.
+
+**Exemplo de refatoração do código da aula 2, executado na aula 3.**
+
+![Refatoramento](https://)
+
 ---
 
 ### Instrutores
