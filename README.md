@@ -34,7 +34,7 @@ Chegou o momento de melhorar o código com as refatorações necessárias para t
 
 **Exemplo de refatoração do código da aula 2, executado na aula 3.**
 
-![Refatoramento](https://)
+![Refatoramento](https://github.com/brunoesm07/imersao-java-2023/blob/9fb324190d1892288c21944c8e3fe12a656ab78e/assets/refatorado.png)
 
 ---
 
