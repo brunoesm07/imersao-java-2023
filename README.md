@@ -40,6 +40,11 @@ Chegou o momento de melhorar o código com as refatorações necessárias para t
 
 Todos os códigos da aula 3 podem ser verificados [**aqui**](https://github.com/brunoesm07/imersao-java-2023/tree/main/Refatora%C3%A7%C3%A3o-e-OO-Aula3).
 
+## Aula 4: Criando nossa própria API com Spring <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
+     
+Nessa aula o objetivo é construir uma API REST para expor nosso próprio conteúdo, utilizando ferramentas profissionais como o Spring Framework e um banco de dados NoSQL.
+
 ---
 
 ### Instrutores

@@ -5,10 +5,11 @@ import java.util.List;
 public class App {
     public static void main(String[] args) throws Exception {
 
-        API api = API.NASA;
+       // aula 3 API api = API.NASA;
 
         // fazer conexão http e buscar os top filmes
-        String url = api.getUrl();
+        // aula 3 String url = api.getUrl();
+        String url = "http://localhost:8080/linguagens";
         ExtratorDeConteudo extrator = new ExtratorDeConteudoNasa();
 
         var http = new ClienteHttp();
