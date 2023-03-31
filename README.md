@@ -44,6 +44,8 @@ Todos os códigos da aula 3 podem ser verificados [**aqui**](https://github.com/
      
 Nessa aula o objetivo é construir uma API REST para expor nosso próprio conteúdo, utilizando ferramentas profissionais como o Spring Framework e um banco de dados NoSQL.
 
+Baseado em uma reportagem do [Tecmundo](https://www.tecmundo.com.br/mercado/260143-linguagens-programacao-usadas-2022.htm) contendo o ranking das linguagens de programação mais utilizadas em 2022, fiz algumas operações de CRUD, utilizando o Postman, no banco de dados (MongoDB).
+
 **Ferramentas utilizadas:**
 
 | Framework  | Link   | Banco de Dados | Link   | Plataforma API | Link    |
