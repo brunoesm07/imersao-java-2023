@@ -60,6 +60,8 @@ Tornar a aplicação acessível por qualquer pessoa, fazendo o deploy na nuvem. 
 
 Nessa aula eu resolvi sair um pouco do projeto da aula e, baseado no [Ranking da CBF](https://www.rankingcbf.com/), criei uma API dos clubes que disputarão o Brasileirão 2023. Esse projeto pode ser verificado [**aqui**](https://github.com/brunoesm07/appStickers-brasileirao2023)
 
+![](https://github.com/brunoesm07/imersao-java-2023/blob/0815392a8c32981d0cf6dcdc053034f2029d162d/assets/Exemplo.png)
+
 **Ferramentas utilizadas:**
 
 | Containers | Link   | PaaS    | Link   | 
