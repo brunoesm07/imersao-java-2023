@@ -10,7 +10,7 @@ public class App {
         // fazer conexão http e buscar os top filmes
         // aula 3 String url = api.getUrl();
         String url = "http://localhost:8080/linguagens";
-        ExtratorDeConteudo extrator = new ExtratorDeConteudoNasa();
+        ExtratorDeConteudo extrator = new ExtratorDeConteudoLinguagem();
 
         var http = new ClienteHttp();
         String json = http.buscaDados(url);
