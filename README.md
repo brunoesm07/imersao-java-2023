@@ -73,13 +73,3 @@ Nessa aula eu resolvi sair um pouco do projeto da aula e, baseado no [Ranking da
 |<img src="https://github.com/brunoesm07/imersao-java-2023/blob/a9e877af39c60864d9dbaf894b2ce09c3ebd9ca2/Consumindo-uma-API-com-Java/assets/Paulo.png" width="160" height="160" /> | <img src="https://github.com/brunoesm07/imersao-java-2023/blob/a9e877af39c60864d9dbaf894b2ce09c3ebd9ca2/Consumindo-uma-API-com-Java/assets/jacqueline.png" width="160" height="160" /> | <img src="https://github.com/brunoesm07/imersao-java-2023/blob/a9e877af39c60864d9dbaf894b2ce09c3ebd9ca2/Consumindo-uma-API-com-Java/assets/alexandre.png" width="160" height="160" /> | 
 | :-----: | :-----: | :-----: |
 | Paulo Silveira | [Jacqueline Oliveira](https://github.com/jacqueline-oliveira)| [Alexandre Aquiles](https://github.com/alexandreaquiles) |
-
----
-
-## Extra
-
-Não faz parte do conteúdo da imersão, porém estou tentando implementar, através do HitHub Actions, uma ferramenta SAST para escanear a aplicação em busca de vulnerabilidades de segurança a cada push, como prática dos demais assuntos que venho estudando.
-
-Ferramentas utilizadas: 
-
-**GitHub Actions + SonarCloud**
