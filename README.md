@@ -54,6 +54,18 @@ Baseado em uma reportagem do [Tecmundo](https://www.tecmundo.com.br/mercado/2601
 
 Todos os códigos da aula 4 podem ser verificados [**aqui**](https://github.com/brunoesm07/imersao-java-2023/tree/main/linguagens-api)
 
+## Aula 5: Publicando a API no Cloud
+
+Tornar a aplicação acessível por qualquer pessoa, fazendo o deploy na nuvem. Além disso, vamos gerar figurinhas a partir do conteúdo dessa nossa API.
+
+Nessa aula eu resolvi sair um pouco do projeto da aula e, baseado no [Ranking da CBF](https://www.rankingcbf.com/), criei uma API dos clubes que disputarão o Brasileirão 2023. Esse projeto pode ser verificado [**aqui**](https://github.com/brunoesm07/appStickers-brasileirao2023)
+
+**Ferramentas utilizadas:**
+
+| Containers | Link   | PaaS    | Link   | 
+| :-----:    | :-----:| :-----: | :-----:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /> | [Docker](https://www.docker.com/) | <img src="https://fly.io/static/images/brand/logo-landscape.svg" width="40" height="40" /> | [Fly.io](https://fly.io/) |
+
 ---
 
 ### Instrutores
