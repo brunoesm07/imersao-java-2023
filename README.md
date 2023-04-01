@@ -46,6 +46,10 @@ Nessa aula o objetivo é construir uma API REST para expor nosso próprio conte�
 
 Baseado em uma reportagem do [Tecmundo](https://www.tecmundo.com.br/mercado/260143-linguagens-programacao-usadas-2022.htm) contendo o ranking das linguagens de programação mais utilizadas em 2022, fiz algumas operações de CRUD, utilizando o Postman, no banco de dados (MongoDB).
 
+**Exemplos de resultado:**
+
+![](https://github.com/brunoesm07/imersao-java-2023/blob/68487a4f9c84fd43adbb815cdd7219e5f06051d9/assets/exemplo1linguagens.jpg)
+
 **Ferramentas utilizadas:**
 
 | Framework  | Link   | Banco de Dados | Link   | Plataforma API | Link    |
